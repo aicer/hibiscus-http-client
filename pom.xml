@@ -14,7 +14,7 @@
   <parent>
     <groupId>org.aicer</groupId>
     <artifactId>oss-pom-java-library</artifactId>
-    <version>3</version>
+    <version>4</version>
   </parent>
   <licenses>
     <license>
